@@ -2,8 +2,60 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53b72479-7901-4584-a076-118d04507596" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KAppletSKK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KConstant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KCtrl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KCtrlSKK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KFrameSKK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KSprite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KSpriteBackground.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KSpriteBeam1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KSpriteGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KSpriteGroupC01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KSpriteGroupC02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KSpriteGroupJ01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KSpriteGroupJ02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KSpriteGroupJ03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KSpriteGroupT01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KSpriteGroupT02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KSpriteGroupT03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KSpriteGroupT04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KSpriteGroupT05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KSpriteGroupT06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KSpriteGroupT07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KSpriteGroupT08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KSpriteGroupT09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KSpriteJ01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KSpriteJ02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KSpriteJ03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KSpriteObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KSpriteS01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KSpriteS02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KSpriteS03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KSpriteS04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KSpriteShip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KSpriteShipMini.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KSpriteT00.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KSpriteT01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KSpriteT02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KSpriteT03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KSpriteT04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KSpriteT05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KSpriteT06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KSpriteT07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KSpriteT08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KSpriteT09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KSpriteT99.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KSpriteTitle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KStory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KStorySKK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KStorySKK.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KTextShield.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +77,13 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/image" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/image" />
+    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -49,11 +107,43 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579587766188</updated>
-      <workItem from="1579587769331" duration="141000" />
+      <workItem from="1579587769331" duration="2539000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="264" y="-788" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579590241335">
+      <screen x="0" y="-900" width="1600" height="900" />
+    </state>
+    <state x="264" y="-788" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.-900.1600.900/0.0.1680.1050@0.-900.1600.900" timestamp="1579590241335" />
+    <state x="465" y="-239" key="run.anything.popup" timestamp="1579590783995">
+      <screen x="0" y="-900" width="1600" height="900" />
+    </state>
+    <state x="465" y="-239" key="run.anything.popup/0.-900.1600.900/0.0.1680.1050@0.-900.1600.900" timestamp="1579590783995" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/KCtrlSKK.java</url>
+          <line>83</line>
+          <properties field="strShield" class="KCtrlSKK" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/KCtrlSKK.java</url>
+          <line>247</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/KStory.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
